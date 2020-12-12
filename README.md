@@ -12,7 +12,7 @@
   </a>
   <br><br>
 
-I'm a Software Engineer, living in Mumbai, & tourist. I love coding in javascript and golang.
+I'm a Software Engineer, living in Mumbai who loves travelling. I also love coding in javascript and golang.
 
 🧰  I'm experienced in:
 - .js
@@ -24,10 +24,14 @@ I'm a Software Engineer, living in Mumbai, & tourist. I love coding in javascrip
 - node && lighttpd
 - ng && vue
 - 🐳 containers
+- code performance improvements
 
 🏣 I'm currently learning:
 - deno
+- tensorflow.js
 - contributing to open source projects
+- would definitely try learning Rust
+- dynamic programming (DSA)
 
 💡 Ask me about:
 - Anything, I'm always happy to help in any way that I can.
