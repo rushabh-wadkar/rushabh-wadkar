@@ -11,8 +11,6 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="26px"/>
   </a>
   <br><br>
-  
-Fun stats courtesy of [git-badges](https://pufler.dev/git-badges) 
 
 I'm a Software Engineer, living in Mumbai, & tourist. I love coding in javascript and golang.
 
