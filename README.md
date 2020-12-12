@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/rushabh-wadkar" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=rushabh-wadkar" alt="Rushabh's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=rushabh-wadkar&theme=merko&show_icons=true&include_all_commits=true&count_private=true" alt="Rushabh's Stats" >
   </a>
 </p>
 
