@@ -53,16 +53,21 @@ I'm a Software Engineer (Full Stack Developer), living in Mumbai who loves trave
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 🏣 I'm currently learning:
+- nginx
 - deno
+- TLS/SSL certificates (X.509 etc)
 - tensorflow.js
 - contributing to open source projects
 - would definitely try learning Rust
 - dynamic programming (DSA)
 
 💡 Ask me about:
-- Anything, I'm always happy to help in any way that I can.
+- Anything, I'm always happy to help in any way that I can. I feel that's the only way you can learn more and deepen your knowledge.
 
 😎 Kinda fun facts:
-- Super interested in Alien theories.
-- I adore Ryan Dahl.
+- Super interested in Alien theories. 👽
+- I adore Ryan Dahl and his work. 🙈
 - I love working from home! 😛
+
+🥴 Wierd Analytics:
+![](https://hit.yhype.me/github/profile?user_id=6323685)
