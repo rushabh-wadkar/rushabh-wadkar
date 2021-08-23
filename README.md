@@ -1,4 +1,4 @@
-# Heya <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">! I'm Rushabh, my pronouns are he/him.
+# Heya <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">! I'm Rushabh.
 
 <p align="center">
   <a href="https://discord.gg/2MxTJt7Y">
