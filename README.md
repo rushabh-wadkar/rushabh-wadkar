@@ -10,12 +10,6 @@
   <a href="https://linkedin.com/in/rushabh-wadkar">
     <img align="left" alt="Rushabh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  <a href="https://open.spotify.com/user/77ei9emhmqve1iqj7ikpmgf8w">
-    <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-  </a>
-  <a href="https://www.reddit.com/user/BlueFishCaptured">
-    <img align="left" alt="Rushabh's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-  </a>
  </p>
 <br><br>
 
