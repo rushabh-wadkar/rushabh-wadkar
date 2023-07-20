@@ -1,16 +1,5 @@
 # Heya <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">! I'm Rushabh.
 
-<p align="center">
-  <a href="https://discord.gg/2MxTJt7Y">
-    <img align="left" alt="Rushabh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  </a>
-  <a href="https://twitter.com/Rushabh_Wadkar">
-    <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  <a href="https://linkedin.com/in/rushabh-wadkar">
-    <img align="left" alt="Rushabh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
- </p>
 <br><br>
 
 I'm a Software Engineer (Full Stack Developer), living in Mumbai who loves travelling. I also love coding in javascript and golang.
